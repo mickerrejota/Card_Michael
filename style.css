@@ -1,0 +1,30 @@
+body
+{
+    height: 100vh;
+    background-color: #008000;
+}
+
+main{
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+header {
+
+    background: url("https://turboclass.com.br/images/anuncio/tc-oz2316d-aceita-troca-carro-volkswagen-santana-original/IMG-20210830-WA0083.jpg");
+    background-size: 30vh;   
+
+}
+
+
+img{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%); 
+    border: 8px solid white;
+
+}
